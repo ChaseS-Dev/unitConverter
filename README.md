@@ -1,1 +1,1 @@
-# Simple Metric/Imperial unit converter written in svelte
+# Simple Metric/Imperial unit converter written in Svelte
