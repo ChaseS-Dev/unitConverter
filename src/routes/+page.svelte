@@ -137,6 +137,7 @@
     height: 110px;
     padding-top: 15px;
     width: 45vw;
+    border-radius: 5px;
   }
 
   #length {
