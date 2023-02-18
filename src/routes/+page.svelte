@@ -82,7 +82,6 @@
     margin: 0;
     background-color: #1f2937;
   }
-
   #topContainer {
     background-color: #6943ff;
     color: white;
@@ -122,6 +121,10 @@
   }
 
   #bottomContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     background-color: #1f2937;
     width: 100%;
     padding-top: 20px;
@@ -133,6 +136,7 @@
     margin: 25px 25px;
     height: 110px;
     padding-top: 15px;
+    width: 45vw;
   }
 
   #length {
